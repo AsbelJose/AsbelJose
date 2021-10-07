@@ -9,6 +9,9 @@ I'm a mostly self-taught **Web Developer**, **Python Enthusiast**, and **Data Sc
 
 
 ## Languages and Tools
+FRONTEND | BACKEND | DEVOPS | ENV |
+---------|---------|--------|-----|
+
 
 ## Highlight Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AsbelJose&repo=marte&theme=dark)](https://github.com/AsbelJose/marte)
