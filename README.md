@@ -1,6 +1,12 @@
 ### Hi there 👋, I´m AsbelJose
 
 ## About me:
+I have an undergraduate degree in Business Administration, a specialization in finance, and a master's degree in economics. But we are not here for that.
+
+I'm a mostly self-taught **Web Developer**, **Python Enthusiast**, and **Data Scientist**.
+
+###  **WELCOME to my GitHub!!**
+
 
 ## Languages and Tools
 
