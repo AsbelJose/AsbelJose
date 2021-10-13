@@ -11,6 +11,7 @@ I'm a mostly self-taught **Web Developer**, **Python Enthusiast**, and **Data Sc
 ## Languages and Tools
 FRONTEND | BACKEND | DEVOPS | ENV |
 ---------|---------|--------|-----|
+![html5](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/knowledge/html5.svg) ![css3](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/knowledge/css3.svg)
 
 
 ## Highlight Projects
