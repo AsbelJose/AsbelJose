@@ -5,18 +5,18 @@ I have an undergraduate degree in Business Administration, a specialization in f
 
 I'm a mostly self-taught **Web Developer**, **Python Enthusiast**, and **Data Scientist**.
 
-###  **WELCOME to my GitHub!!**
+### **WELCOME to my GitHub!!**
 
 
 ## Languages and Tools
 FRONTEND | BACKEND | DEVOPS | ENV |
 ---------|---------|--------|-----|
-![html5](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/frontend/html5.svg) ![css3](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/frontend/css3.svg) ![javascript](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/frontend/javascript.svg) ![react](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/frontend/react.svg) | ![python](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/backend/python.svg) ![flask](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/backend/flask.svg) ![javascript](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/backend/javascript.svg) ![nodejs](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/backend/nodedotjs.svg) | ![bash](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/DevOps/gnubash.svg) ![docker](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/DevOps/docker.svg) ![jenkins](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/DevOps/jenkins.svg) | ![macOS](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/env/macos.svg) ![VSC](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/env/visualstudiocode.svg)
+![html5](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/frontend/html5.svg) ![css3](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/frontend/css3.svg) ![javascript](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/frontend/javascript.svg) ![react](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/frontend/react.svg) | ![python](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/backend/python.svg) ![flask](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/backend/flask.svg) ![javascript](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/backend/javascript.svg) ![nodejs](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/backend/nodedotjs.svg) | ![git](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/DevOps/git.svg) ![github](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/DevOps/github.svg) ![bash](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/DevOps/gnubash.svg) ![docker](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/DevOps/docker.svg) ![jenkins](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/DevOps/jenkins.svg) | ![macOS](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/env/macos.svg) ![VSC](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/env/visualstudiocode.svg)
 
 
 
 ## Highlight Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AsbelJose&repo=marte&theme=dark)](https://github.com/AsbelJose/marte)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AsbelJose&repo=marte)](https://github.com/AsbelJose/marte)
 
 
 
@@ -32,8 +32,8 @@ FRONTEND | BACKEND | DEVOPS | ENV |
 
 <!--## My latest post-->
 ## GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsbelJose&count_private=true&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsbelJose&count_private=true&show_icons=true)
 
 
 
