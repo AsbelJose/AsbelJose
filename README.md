@@ -9,9 +9,13 @@ I'm a mostly self-taught **Web Developer**, **Python Enthusiast**, and **Data Sc
 
 
 ## Languages and Tools
-FRONTEND | BACKEND | DEVOPS | ENV |
----------|---------|--------|-----|
-![html5](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/frontend/html5.svg) ![css3](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/frontend/css3.svg) ![javascript](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/frontend/javascript.svg) ![react](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/frontend/react.svg) | ![python](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/backend/python.svg) ![flask](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/backend/flask.svg) ![javascript](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/backend/javascript.svg) ![nodejs](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/backend/nodedotjs.svg) | ![git](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/DevOps/git.svg) ![github](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/DevOps/github.svg) ![bash](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/DevOps/gnubash.svg) ![docker](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/DevOps/docker.svg) ![jenkins](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/DevOps/jenkins.svg) | ![macOS](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/env/macos.svg) ![VSC](https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/env/visualstudiocode.svg)
+LANGUAGES|  <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/frontend/html5.svg">       |
+---------|---------|
+**FRONTEND** | <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/frontend/html5.svg">        |
+**BACKEND**  |  <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/frontend/html5.svg">      |
+**DEVOPS**   |  <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/frontend/html5.svg">       |
+**ENV**      |   <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/AsbelJose/AsbelJose/main/icons/frontend/html5.svg">      |
+---------
 
 
 
